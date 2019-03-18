@@ -5,3 +5,13 @@
 {
 	display: none;
 }
+
+.box
+{
+	width: 250px;
+	height: 250px;
+	background: red;
+	position: relative;
+
+
+}
